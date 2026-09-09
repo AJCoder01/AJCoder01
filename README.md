@@ -112,8 +112,7 @@ An approval-based workflow prototype exploring how to record the assumptions and
 
 ### Let's build something useful.
 
-**Summer 2027:** software engineering internships starting May; open to longer engagements.  
-**December 2026:** available for a short paid project during my month-long break.
+**Summer 2027:** software engineering internships starting May; open to longer engagements.
 
 [**ayushwork2401@gmail.com**](mailto:ayushwork2401@gmail.com)
 
